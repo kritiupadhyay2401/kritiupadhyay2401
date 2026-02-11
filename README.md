@@ -27,7 +27,7 @@
 I am a **Computer Science Engineering (AIML)** undergraduate at **Chandigarh University** with a strong foundation in **machine learning, deep learning, and problem solving**.  
 I enjoy developing **scalable ML solutions**, evaluating models rigorously, and applying AI to real-world challenges.
 
-* **Degree:** BE in CSE (AIML), CGPA **8.28/10**
+* **Degree:** BE in CSE (AIML), CGPA **8.35/10**
 * **Focus Areas:** Machine Learning, Deep Learning, NLP, Computer Vision
 * **Research:** 3 international conference publications (IEEE, Springer)
 * **Strengths:** Model evaluation, performance tuning, real-time inference
